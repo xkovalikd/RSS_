@@ -21,3 +21,4 @@ For production run `ng build --prod`.
 ## Credits 
 * function filterFeeds() taken from `//https://stackoverflow.com/questions/40678206/angular-2-filter-search-list`
 # RSS_
+# RSS-reader
